@@ -1,11 +1,10 @@
 {
-  "name": "react-ranger",
+  "name": "@vizum/react-ranger",
   "version": "1.0.6",
   "description": "A render-prop component to build range and multi-range sliders in React",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
-    "css",
     "es",
     "lib",
     "umd"
