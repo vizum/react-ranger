@@ -9,6 +9,10 @@
     "lib",
     "umd"
   ],
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
   "author": "Tanner Linsley <tannerlinsley@gmail.com>",
   "homepage": "https://react-ranger.js.org",
   "license": "MIT",
@@ -21,7 +25,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-tools/react-ranger.git"
+    "url": "git+https://github.com/vizum/react-ranger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vizum/react-ranger/issues"
   },
   "scripts": {
     "build": "nwb build-react-component",
